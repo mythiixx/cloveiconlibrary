@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'mclove';
-  src:  url('fonts/mclove.eot?og00u7');
-  src:  url('fonts/mclove.eot?og00u7#iefix') format('embedded-opentype'),
-    url('fonts/mclove.ttf?og00u7') format('truetype'),
-    url('fonts/mclove.woff?og00u7') format('woff'),
-    url('fonts/mclove.svg?og00u7#mclove') format('svg');
+  src:  url('https://mythiixx.github.io/cloveiconlibrary/mclove.eot');
+  src:  url('https://mythiixx.github.io/cloveiconlibrary/mclove.eot#iefix') format('embedded-opentype'),
+    url('https://mythiixx.github.io/cloveiconlibrary/mclove.ttf') format('truetype'),
+    url('https://mythiixx.github.io/cloveiconlibrary/mclove.woff') format('woff'),
+    url('https://mythiixx.github.io/cloveiconlibrary/mclove.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
