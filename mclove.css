@@ -25,6 +25,66 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-skateboard:before {
+  content: "\ea86";
+}
+.icon-magic-trick:before {
+  content: "\ea87";
+}
+.icon-magician:before {
+  content: "\ea88";
+}
+.icon-giraffe:before {
+  content: "\ea89";
+}
+.icon-swans:before {
+  content: "\ea8a";
+}
+.icon-eyes:before {
+  content: "\ea8b";
+}
+.icon-fan:before {
+  content: "\ea8c";
+}
+.icon-candle2:before {
+  content: "\ea8d";
+}
+.icon-ramen:before {
+  content: "\ea8e";
+}
+.icon-christmas-cookie:before {
+  content: "\ea8f";
+}
+.icon-mochi:before {
+  content: "\ea90";
+}
+.icon-oil-lamp1:before {
+  content: "\ea91";
+}
+.icon-onigiri1:before {
+  content: "\ea92";
+}
+.icon-sun1:before {
+  content: "\ea93";
+}
+.icon-baozi:before {
+  content: "\ea94";
+}
+.icon-sun-12:before {
+  content: "\ea95";
+}
+.icon-onigiri-1:before {
+  content: "\ea96";
+}
+.icon-flower-bouquet2:before {
+  content: "\ea97";
+}
+.icon-lavender:before {
+  content: "\ea98";
+}
+.icon-flower-basket:before {
+  content: "\ea99";
+}
 .icon-books1:before {
   content: "\ea41";
 }
@@ -1195,5 +1255,6 @@
 .icon-love-letters1:before {
   content: "\e9ed";
 }
+
 
 
