@@ -25,6 +25,87 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-cat1:before {
+  content: "\ea9a";
+}
+.icon-wooden-stick:before {
+  content: "\ea9b";
+}
+.icon-broom:before {
+  content: "\ea9c";
+}
+.icon-magic:before {
+  content: "\ea9d";
+}
+.icon-levitation:before {
+  content: "\ea9e";
+}
+.icon-mirror:before {
+  content: "\ea9f";
+}
+.icon-dreamcatcher:before {
+  content: "\eaa0";
+}
+.icon-best:before {
+  content: "\eaa1";
+}
+.icon-lion3:before {
+  content: "\eaa2";
+}
+.icon-dragon1:before {
+  content: "\eaa3";
+}
+.icon-door:before {
+  content: "\eaa4";
+}
+.icon-castle:before {
+  content: "\eaa5";
+}
+.icon-shark:before {
+  content: "\eaa6";
+}
+.icon-balls:before {
+  content: "\eaa7";
+}
+.icon-cooking:before {
+  content: "\eaa8";
+}
+.icon-cauldron:before {
+  content: "\eaa9";
+}
+.icon-comic:before {
+  content: "\eaaa";
+}
+.icon-bam:before {
+  content: "\eaab";
+}
+.icon-comic-1:before {
+  content: "\eaac";
+}
+.icon-popular:before {
+  content: "\eaad";
+}
+.icon-review:before {
+  content: "\eaae";
+}
+.icon-star3:before {
+  content: "\eaaf";
+}
+.icon-hearts2:before {
+  content: "\eab0";
+}
+.icon-mother:before {
+  content: "\eab1";
+}
+.icon-tree1:before {
+  content: "\eab2";
+}
+.icon-memories:before {
+  content: "\eab3";
+}
+.icon-globe1:before {
+  content: "\eab4";
+}
 .icon-skateboard:before {
   content: "\ea86";
 }
@@ -1255,6 +1336,7 @@
 .icon-love-letters1:before {
   content: "\e9ed";
 }
+
 
 
 
