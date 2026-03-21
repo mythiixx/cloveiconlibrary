@@ -25,6 +25,147 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-basketball:before {
+  content: "\eab5";
+}
+.icon-football:before {
+  content: "\eab6";
+}
+.icon-balls1:before {
+  content: "\eab7";
+}
+.icon-watch:before {
+  content: "\eab8";
+}
+.icon-trophy:before {
+  content: "\eab9";
+}
+.icon-trophy-1:before {
+  content: "\eaba";
+}
+.icon-cards2:before {
+  content: "\eabb";
+}
+.icon-king-of-spades:before {
+  content: "\eabc";
+}
+.icon-cards-1:before {
+  content: "\eabd";
+}
+.icon-fast-food:before {
+  content: "\eabe";
+}
+.icon-headphones:before {
+  content: "\eabf";
+}
+.icon-peace2:before {
+  content: "\eac0";
+}
+.icon-soft-drink:before {
+  content: "\eac1";
+}
+.icon-earphones:before {
+  content: "\eac2";
+}
+.icon-music-player:before {
+  content: "\eac3";
+}
+.icon-headphones-1:before {
+  content: "\eac4";
+}
+.icon-earphones-1:before {
+  content: "\eac5";
+}
+.icon-mobile-phone:before {
+  content: "\eac6";
+}
+.icon-smartphone-headphones:before {
+  content: "\eac7";
+}
+.icon-fast-food-1:before {
+  content: "\eac8";
+}
+.icon-jersey:before {
+  content: "\eac9";
+}
+.icon-supplement:before {
+  content: "\eaca";
+}
+.icon-ribbon:before {
+  content: "\eacb";
+}
+.icon-sport-bag:before {
+  content: "\eacc";
+}
+.icon-billiard:before {
+  content: "\eacd";
+}
+.icon-key:before {
+  content: "\eace";
+}
+.icon-broom1:before {
+  content: "\eacf";
+}
+.icon-sword:before {
+  content: "\ead0";
+}
+.icon-flag:before {
+  content: "\ead1";
+}
+.icon-skull2:before {
+  content: "\ead2";
+}
+.icon-werewolf:before {
+  content: "\ead3";
+}
+.icon-heart1:before {
+  content: "\ead4";
+}
+.icon-bottle1:before {
+  content: "\ead5";
+}
+.icon-cloud:before {
+  content: "\ead6";
+}
+.icon-balloons1:before {
+  content: "\ead7";
+}
+.icon-book3:before {
+  content: "\ead8";
+}
+.icon-comic-book:before {
+  content: "\ead9";
+}
+.icon-manga:before {
+  content: "\eada";
+}
+.icon-manga-1:before {
+  content: "\eadb";
+}
+.icon-comic1:before {
+  content: "\eadc";
+}
+.icon-crystals1:before {
+  content: "\eadd";
+}
+.icon-scroll1:before {
+  content: "\eade";
+}
+.icon-runes1:before {
+  content: "\eadf";
+}
+.icon-tarot2:before {
+  content: "\eae0";
+}
+.icon-magic-wand:before {
+  content: "\eae1";
+}
+.icon-crystal2:before {
+  content: "\eae2";
+}
+.icon-necromancy:before {
+  content: "\eae3";
+}
 .icon-cat1:before {
   content: "\ea9a";
 }
@@ -1336,6 +1477,7 @@
 .icon-love-letters1:before {
   content: "\e9ed";
 }
+
 
 
 
