@@ -25,6 +25,234 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-daisy-flower:before {
+  content: "\eae4";
+}
+.icon-peace3:before {
+  content: "\eae5";
+}
+.icon-ice-hockey-puck:before {
+  content: "\eae6";
+}
+.icon-ice-hockey-equipment:before {
+  content: "\eae7";
+}
+.icon-brainstorming:before {
+  content: "\eae8";
+}
+.icon-shelving:before {
+  content: "\eae9";
+}
+.icon-pathway:before {
+  content: "\eaea";
+}
+.icon-innovation:before {
+  content: "\eaeb";
+}
+.icon-sweatshirt:before {
+  content: "\eaec";
+}
+.icon-film:before {
+  content: "\eaed";
+}
+.icon-ice-cream:before {
+  content: "\eaee";
+}
+.icon-creativity:before {
+  content: "\eaef";
+}
+.icon-headphones1:before {
+  content: "\eaf0";
+}
+.icon-tools:before {
+  content: "\eaf1";
+}
+.icon-confetti:before {
+  content: "\eaf2";
+}
+.icon-spray-can:before {
+  content: "\eaf3";
+}
+.icon-cute-camera:before {
+  content: "\eaf4";
+}
+.icon-cute-camera-1:before {
+  content: "\eaf5";
+}
+.icon-camellia:before {
+  content: "\eaf6";
+}
+.icon-camelia:before {
+  content: "\eaf7";
+}
+.icon-marigold:before {
+  content: "\eaf8";
+}
+.icon-sweet-pea:before {
+  content: "\eaf9";
+}
+.icon-winter-jasmine1:before {
+  content: "\eafa";
+}
+.icon-hellebore:before {
+  content: "\eafb";
+}
+.icon-compass:before {
+  content: "\eafc";
+}
+.icon-feature-spotlight:before {
+  content: "\eafd";
+}
+.icon-gelato:before {
+  content: "\eafe";
+}
+.icon-chocolate:before {
+  content: "\eaff";
+}
+.icon-cookie2:before {
+  content: "\eb00";
+}
+.icon-kitsune:before {
+  content: "\eb01";
+}
+.icon-frog:before {
+  content: "\eb02";
+}
+.icon-onibi:before {
+  content: "\eb03";
+}
+.icon-alchemy1:before {
+  content: "\eb04";
+}
+.icon-book4:before {
+  content: "\eb05";
+}
+.icon-gem1:before {
+  content: "\eb06";
+}
+.icon-snake1:before {
+  content: "\eb07";
+}
+.icon-virgo1:before {
+  content: "\eb08";
+}
+.icon-capricorn1:before {
+  content: "\eb09";
+}
+.icon-cancer1:before {
+  content: "\eb0a";
+}
+.icon-aquarius1:before {
+  content: "\eb0b";
+}
+.icon-gemini1:before {
+  content: "\eb0c";
+}
+.icon-taurus1:before {
+  content: "\eb0d";
+}
+.icon-leo1:before {
+  content: "\eb0e";
+}
+.icon-libra1:before {
+  content: "\eb0f";
+}
+.icon-pisces1:before {
+  content: "\eb10";
+}
+.icon-capricorn-11:before {
+  content: "\eb11";
+}
+.icon-scorpio-11:before {
+  content: "\eb12";
+}
+.icon-cancer-11:before {
+  content: "\eb13";
+}
+.icon-libra-11:before {
+  content: "\eb14";
+}
+.icon-sagittarius-11:before {
+  content: "\eb15";
+}
+.icon-pisces-11:before {
+  content: "\eb16";
+}
+.icon-virgo-11:before {
+  content: "\eb17";
+}
+.icon-gemini-11:before {
+  content: "\eb18";
+}
+.icon-taurus-11:before {
+  content: "\eb19";
+}
+.icon-aries-11:before {
+  content: "\eb1a";
+}
+.icon-flower-basket1:before {
+  content: "\eb1b";
+}
+.icon-gold:before {
+  content: "\eb1c";
+}
+.icon-magazine:before {
+  content: "\eb1d";
+}
+.icon-cocktail:before {
+  content: "\eb1e";
+}
+.icon-woman:before {
+  content: "\eb1f";
+}
+.icon-earth:before {
+  content: "\eb20";
+}
+.icon-flag1:before {
+  content: "\eb21";
+}
+.icon-direction:before {
+  content: "\eb22";
+}
+.icon-soft-drink1:before {
+  content: "\eb23";
+}
+.icon-maloik:before {
+  content: "\eb24";
+}
+.icon-eucalyptus:before {
+  content: "\eb25";
+}
+.icon-heather-flower:before {
+  content: "\eb26";
+}
+.icon-ice-cream-1:before {
+  content: "\eb27";
+}
+.icon-scorpio1:before {
+  content: "\eb28";
+}
+.icon-sagittarius1:before {
+  content: "\eb29";
+}
+.icon-aries1:before {
+  content: "\eb2a";
+}
+.icon-aquarius-11:before {
+  content: "\eb2b";
+}
+.icon-leo-11:before {
+  content: "\eb2c";
+}
+.icon-lily:before {
+  content: "\eb2d";
+}
+.icon-forest:before {
+  content: "\eb2e";
+}
+.icon-mail:before {
+  content: "\eb2f";
+}
 .icon-basketball:before {
   content: "\eab5";
 }
@@ -1477,6 +1705,7 @@
 .icon-love-letters1:before {
   content: "\e9ed";
 }
+
 
 
 
