@@ -1624,6 +1624,108 @@
 .icon-love-letters1:before {
   content: "\e9ed";
 }
+.icon-monitor:before {
+  content: "\eb51";
+}
+.icon-social-media:before {
+  content: "\eb52";
+}
+.icon-cloud-service:before {
+  content: "\eb53";
+}
+.icon-robot:before {
+  content: "\eb54";
+}
+.icon-feathers:before {
+  content: "\eb55";
+}
+.icon-skull4:before {
+  content: "\eb56";
+}
+.icon-heart4:before {
+  content: "\eb57";
+}
+.icon-no-violence:before {
+  content: "\eb58";
+}
+.icon-rose-2:before {
+  content: "\eb59";
+}
+.icon-runes2:before {
+  content: "\eb5a";
+}
+.icon-feather:before {
+  content: "\eb5b";
+}
+.icon-coffee:before {
+  content: "\eb5c";
+}
+.icon-bycicle:before {
+  content: "\eb5d";
+}
+.icon-data-management:before {
+  content: "\eb5e";
+}
+.icon-global:before {
+  content: "\eb5f";
+}
+.icon-technology:before {
+  content: "\eb60";
+}
+.icon-global-1:before {
+  content: "\eb61";
+}
+.icon-electricity:before {
+  content: "\eb62";
+}
+.icon-qr-code:before {
+  content: "\eb63";
+}
+.icon-microchip:before {
+  content: "\eb64";
+}
+.icon-settings:before {
+  content: "\eb65";
+}
+.icon-aromatherapy:before {
+  content: "\eb66";
+}
+.icon-spider-plant:before {
+  content: "\eb67";
+}
+.icon-stars3:before {
+  content: "\eb68";
+}
+.icon-rose:before {
+  content: "\eb69";
+}
+.icon-rose-1:before {
+  content: "\eb6a";
+}
+.icon-potion1:before {
+  content: "\eb6b";
+}
+.icon-ring:before {
+  content: "\eb6c";
+}
+.icon-digitalisation:before {
+  content: "\eb6d";
+}
+.icon-technology-1:before {
+  content: "\eb6e";
+}
+.icon-moon1:before {
+  content: "\eb6f";
+}
+.icon-asteroid:before {
+  content: "\eb70";
+}
+.icon-ticket:before {
+  content: "\eb71";
+}
+.icon-key-lock:before {
+  content: "\eb72";
+}
 .icon-game-controller:before {
   content: "\eb33";
 }
@@ -1804,7 +1906,6 @@
 .icon-ufo-11:before {
   content: "\eb32";
 }
-
 
 
 
