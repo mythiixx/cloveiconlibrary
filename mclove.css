@@ -1624,6 +1624,108 @@
 .icon-love-letters1:before {
   content: "\e9ed";
 }
+.icon-zeus:before {
+  content: "\eb73";
+}
+.icon-waterfall:before {
+  content: "\eb74";
+}
+.icon-prometheus:before {
+  content: "\eb75";
+}
+.icon-ares:before {
+  content: "\eb76";
+}
+.icon-atlas:before {
+  content: "\eb77";
+}
+.icon-athena:before {
+  content: "\eb78";
+}
+.icon-demeter:before {
+  content: "\eb79";
+}
+.icon-aphrodite:before {
+  content: "\eb7a";
+}
+.icon-themis:before {
+  content: "\eb7b";
+}
+.icon-poseidon:before {
+  content: "\eb7c";
+}
+.icon-hermes:before {
+  content: "\eb7d";
+}
+.icon-hera:before {
+  content: "\eb7e";
+}
+.icon-pandora:before {
+  content: "\eb7f";
+}
+.icon-persephone:before {
+  content: "\eb80";
+}
+.icon-hades:before {
+  content: "\eb81";
+}
+.icon-nike:before {
+  content: "\eb82";
+}
+.icon-pan:before {
+  content: "\eb83";
+}
+.icon-eros:before {
+  content: "\eb84";
+}
+.icon-hephaestus:before {
+  content: "\eb85";
+}
+.icon-artemis1:before {
+  content: "\eb86";
+}
+.icon-apollo:before {
+  content: "\eb87";
+}
+.icon-astrology:before {
+  content: "\eb88";
+}
+.icon-dionysus:before {
+  content: "\eb89";
+}
+.icon-treasure:before {
+  content: "\eb8a";
+}
+.icon-candle3:before {
+  content: "\eb8b";
+}
+.icon-kraken:before {
+  content: "\eb8c";
+}
+.icon-pirate-ship1:before {
+  content: "\eb8d";
+}
+.icon-hamster:before {
+  content: "\eb8e";
+}
+.icon-newspaper:before {
+  content: "\eb8f";
+}
+.icon-turtle1:before {
+  content: "\eb90";
+}
+.icon-necromancer1:before {
+  content: "\eb91";
+}
+.icon-tshirt1:before {
+  content: "\eb92";
+}
+.icon-clothes-hanger:before {
+  content: "\eb93";
+}
+.icon-needle:before {
+  content: "\eb94";
+}
 .icon-monitor:before {
   content: "\eb51";
 }
@@ -1906,6 +2008,7 @@
 .icon-ufo-11:before {
   content: "\eb32";
 }
+
 
 
 
