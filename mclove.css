@@ -36,6 +36,18 @@
 .icon-peace3:before {
   content: "\eae5";
 }
+.icon-golf:before {
+  content: "\ebe5";
+}
+.icon-golf-1:before {
+  content: "\ebe6";
+}
+.icon-golf-2:before {
+  content: "\ebe7";
+}
+.icon-golf-3:before {
+  content: "\ebe8";
+}
 .icon-ice-hockey-puck:before {
   content: "\eae6";
 }
