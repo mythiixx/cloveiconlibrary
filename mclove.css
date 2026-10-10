@@ -30,6 +30,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-soap:before {
+  content: "\ebfb";
+}
 .icon-chess:before {
   content: "\e900";
 }
