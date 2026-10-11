@@ -30,6 +30,42 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-devil:before {
+  content: "\ebfc";
+}
+.icon-trident:before {
+  content: "\ebfd";
+}
+.icon-sword2:before {
+  content: "\ebfe";
+}
+.icon-pentagram1:before {
+  content: "\ebff";
+}
+.icon-van:before {
+  content: "\ec00";
+}
+.icon-speaker:before {
+  content: "\ec01";
+}
+.icon-post:before {
+  content: "\ec02";
+}
+.icon-ribbon-bow1:before {
+  content: "\ec03";
+}
+.icon-ribbon-bow-1:before {
+  content: "\ec04";
+}
+.icon-ribbon-bow-2:before {
+  content: "\ec05";
+}
+.icon-ribbon-bow-3:before {
+  content: "\ec06";
+}
+.icon-day:before {
+  content: "\ec07";
+}
 .icon-soap:before {
   content: "\ebfb";
 }
